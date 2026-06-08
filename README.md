@@ -126,6 +126,7 @@ Model Context Protocol for connecting AI applications to external systems.
 | **MCP Servers** | Official and community MCP server implementations | [GitHub](https://github.com/modelcontextprotocol/servers) |
 | **Nanobots** | Platform for turning MCP servers into rich, autonomous AI agents | [Website](https://www.nanobot.ai) |
 | **Claude Desktop** | Desktop app with native MCP support | [Website](https://claude.ai/download) |
+| **TWZRD Agent Intel** | Solana on-chain trust scoring for AI agents. Verify wallet reputation before x402 micropayments | [Website](https://intel.twzrd.xyz) |
 
 ## Observability & Monitoring
 
